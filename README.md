@@ -1,3 +1,9 @@
+[![Bash](https://img.shields.io/badge/Bash-4%2B-4EAA25?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Prometheus](https://img.shields.io/badge/Prometheus-ready-E6522C?logo=prometheus&logoColor=white)](https://prometheus.io/)
+[![Grafana](https://img.shields.io/badge/Grafana-dashboards-F46800?logo=grafana&logoColor=white)](https://grafana.com/)
+[![Platform](https://img.shields.io/badge/platform-Linux-lightgrey)](https://www.kernel.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 # Linux System Monitoring
 
 Notes and reference material for building a Linux monitoring loop from first
